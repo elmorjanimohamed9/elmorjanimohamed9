@@ -45,9 +45,7 @@ I'm Mohamed El Morjani, a passionate and dedicated Full-Stack Developer and UI/U
 
 ###
 
-<div align="center">
-<a href="https://app.daily.dev/elmorjanimohamed"><img src="https://api.daily.dev/devcards/v2/3GnKSwj2WlQBa64mWxTuI.png?type=wide&r=qi4" width="652" alt="El Morjani Mohamed's Dev Card"/></a>
-</div>
+<a href="https://app.daily.dev/elmorjanimohamed"><img src="https://api.daily.dev/devcards/v2/3GnKSwj2WlQBa64mWxTuI.png?type=wide&r=qf9" width="652" alt="El Morjani Mohamed's Dev Card"/></a>
 
 ## 🛠️ Skills
 
