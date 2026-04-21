@@ -61,7 +61,7 @@ I'm **Mohamed El Morjani** — a Full-Stack Developer and UI/UX Specialist who b
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vue" height="35" alt="Vue.js" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="35" alt="React Native (React icon)" />
+  <img src="https://skillicons.dev/icons?i=react" height="35" alt="React" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=expo" height="35" alt="Expo" />
 </div>
