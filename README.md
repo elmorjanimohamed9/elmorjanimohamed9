@@ -61,7 +61,7 @@ I'm **Mohamed El Morjani** — a Full-Stack Developer and UI/UX Specialist who b
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vue" height="35" alt="Vue.js" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="35" alt="React Native" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35" alt="React Native" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="35" alt="Expo" />
 </div>
